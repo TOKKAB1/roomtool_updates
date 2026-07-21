@@ -1,10 +1,10 @@
 {
   "app": "RoomTool",
   "first_run": "2026-07-10T13:34:37",
-  "last_run": "2026-07-10T13:36:06",
+  "last_run": "2026-07-21T15:23:20",
   "version": "1.5",
   "update_version": "1.5",
-  "starts": 2,
+  "starts": 3,
   "platform": "Windows-10-10.0.19045-SP0",
   "user_name": "Costea"
 }
