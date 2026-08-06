@@ -1,10 +1,10 @@
 {
   "app": "RoomTool",
   "first_run": "2026-07-21T17:30:01",
-  "last_run": "2026-08-06T11:19:15",
+  "last_run": "2026-08-06T16:00:22",
   "version": "3.5",
   "update_version": "3.5",
-  "starts": 35,
+  "starts": 36,
   "platform": "Windows-11-10.0.26200-SP0",
   "user_name": "tokkabi"
 }
